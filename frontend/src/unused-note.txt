@@ -1,0 +1,1 @@
+React Router is intentionally not required; navigation is handled with BrowserRouter/useLocation in main.jsx.
